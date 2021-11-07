@@ -2,7 +2,7 @@
 
 ### This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
-###Steps performed:
+### Steps performed:
 
 1. Importing Dataset.
 2. Data Wrangling.
