@@ -1,7 +1,5 @@
 # Title: Data Analysis of House Sales in King County, USA
 
-### This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
-
 ### Steps performed:
 
 1. Importing Dataset.
@@ -10,7 +8,7 @@
 4. Model Devlopment.
 5. Model Evaluation and Refinement.
 
-
+### This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
 
 | Variable      | Description                                                                                                 |
